@@ -1,0 +1,27 @@
+{
+    "name": "use-lock-body-scroll",
+    "description": "React hook for locking body scroll",
+    "version": "1.0.0",
+    "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
+    "type": "module",
+    "main": "src/index.js",
+    "exports": "src/index.js",
+    "files": [
+        "index.js"
+    ],
+    "license": "mit",
+    "scripts": {
+        "lint": "standard --fix"
+    },
+    "peerDependencies": {
+        "react": "^16"
+    },
+    "devDependencies": {
+        "standard": "^16.0.3"
+    },
+    "standard": {
+        "env": {
+            "browser": true
+        }
+    }
+}
