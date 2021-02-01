@@ -6,6 +6,12 @@
     "type": "module",
     "main": "src/index.js",
     "exports": "src/index.js",
+    "keywords:: [
+        "react",
+        "hook",
+        "body-scroll",
+        "lock"
+    ],
     "files": [
         "index.js"
     ],
