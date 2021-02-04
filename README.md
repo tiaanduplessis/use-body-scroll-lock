@@ -12,7 +12,6 @@
 ## Table of Contents
 
 - [Why](#why)
-- [Features](#features)
 - [Usage](#usage)
 - [Install](#install)
 - [Contribute](#contribute)
